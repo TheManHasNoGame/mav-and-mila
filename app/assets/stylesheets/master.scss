@@ -1,6 +1,13 @@
 @import "bootstrap";
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 
+body {
+  background: image_url('bg.png');
+  font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+
+
+
+}
 
 h1, h2, h3, h4, h5, h6, .navbar {
   margin: 0;
@@ -47,5 +54,11 @@ h1, h2, h3, h4, h5, h6, .navbar {
 
   .btn {
   border-radius: 0;
+  }
+
+  .feature {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
   }
 
