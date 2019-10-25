@@ -77,4 +77,4 @@ gem 'mini_magick', '~> 4.8'
 
 gem 'carrierwave-aws'
 
-
+gem 'stripe'
