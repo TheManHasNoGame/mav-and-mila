@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 
 body {
-  background: image_url('bg.png');
+  background: image_url('bg2.png');
   font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
 
 
@@ -29,23 +29,23 @@ h1, h2, h3, h4, h5, h6, .navbar {
 
 .frosty {
   background: rgba(255, 255, 255, 0.2);
-  color: white;
+  color: black;
 }
 
 .frosty h1 {
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: arial;
   font-weight: 100;
-  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+  text-shadow: rgba(255, 255, 255, 0.95) 1px 1px;
 }
 
 .frosty h2 {
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: arial;
   font-weight: 200;
-  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+  text-shadow: rgba(255, 255, 255, 0.95) 1px 1px;
 }
 
 .hero {
-  background: image_url("hero.jpg");
+  background: image_url("banner3.jpg");
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
